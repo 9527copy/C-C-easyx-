@@ -8,9 +8,7 @@
 
   2. 从easyx官网下载的库，安装按easyx库提示关联vs
 
-  3. 鼠标右键项目名称->属性->高级->
-
-     ![image-20231210215850140](C:\Users\86153\AppData\Roaming\Typora\typora-user-images\image-20231210215850140.png)
+  3. 鼠标右键项目名称->属性->高级->字符集->使用多字节字符集（方便使用outtextxy函数，settextstely函数等）
 
   4. 在提议中留言解决你的问题
 
